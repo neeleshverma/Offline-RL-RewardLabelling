@@ -1,0 +1,3 @@
+from iql_agent.reward_labelling.ot_adder import OptimalTransportAdder
+from iql_agent.reward_labelling.ot_agent import OptimalTransportAgent
+from iql_agent.reward_labelling.ot_rewarder import OptimalTransportRewarder
