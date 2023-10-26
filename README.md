@@ -16,6 +16,8 @@ python train.py --workdir /tmp/ot \
 
 Here, k is the number of expert trajectories.
 
-For solving the Optimal Transport problem, JAX implementation is used https://github.com/ott-jax/ott
+For solving the Optimal Transport problem, JAX implementation is used https://github.com/ott-jax/ott  
+
+The project report is available at [Report](https://github.com/neeleshverma/Offline-RL-RewardLabelling/blob/main/report/CSE_525_Project_Report.pdf)
 
 Contact Info: neverma@cs.stonybrook.edu
